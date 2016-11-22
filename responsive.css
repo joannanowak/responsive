@@ -1,19 +1,16 @@
-
 @media screen and (min-width: 768px)and (max-width: 1024px){
 	
-	p {
+	p{
+		background-color: darkorange;
 		font-size: 20px;
 	}
-	body{
-		color: darkorange;
-	}
+	
 }
 
 @media (max-width: 767px) {
-	p {
+	p{
+		background-color: white;
 		font-size: 24px;
 	}
-	body{
-		color: white;
-	}
+	
 }
